@@ -6,7 +6,7 @@ const Mainproject = () => {
       <Container className="my-5">
         <Row className="g-4">
           <Col md={6}>
-            <Card>
+            <Card style={{ backgroundColor: "rgba(33, 23, 28, 0.14)" }}>
               <Card.Img variant="top" src="/img1.jpg" />
               <Card.Body>
                 <Card.Title>Proyecto 1</Card.Title>
@@ -20,7 +20,7 @@ const Mainproject = () => {
             </Card>
           </Col>
           <Col md={6}>
-            <Card>
+            <Card style={{ backgroundColor: "rgba(33, 23, 28, 0.14)" }}>
               <Card.Img variant="top" src="/img2.jpg" />
               <Card.Body>
                 <Card.Title>Proyecto 2</Card.Title>
@@ -34,7 +34,7 @@ const Mainproject = () => {
             </Card>
           </Col>
           <Col md={6}>
-            <Card>
+            <Card style={{ backgroundColor: "rgba(33, 23, 28, 0.14)" }}>
               <Card.Img variant="top" src="/img3.jpg" />
               <Card.Body>
                 <Card.Title>Proyecto 3</Card.Title>
@@ -48,7 +48,7 @@ const Mainproject = () => {
             </Card>
           </Col>
           <Col md={6}>
-            <Card>
+            <Card style={{ backgroundColor: "rgba(33, 23, 28, 0.14)" }}>
               <Card.Img variant="top" src="/img4.jpg" />
               <Card.Body>
                 <Card.Title>Proyecto 4</Card.Title>

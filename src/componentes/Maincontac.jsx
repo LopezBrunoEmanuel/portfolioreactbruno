@@ -18,7 +18,8 @@ const Maincontac = () => {
           margin: "50px auto",
           padding: "30px",
           borderRadius: "15px",
-          backgroundColor: "rgba(255, 255, 255, 0.9)",
+          // backgroundColor: "rgba(255, 255, 255, 0.9)",
+          backgroundColor: "rgba(33, 23, 28, 0.14)",
           boxShadow: "0 4px 12px rgba(0, 0, 0, 0.1)",
         }}
       >
