@@ -22,7 +22,7 @@ const Navigation = () => {
         </Container>
       </Navbar> */}
       <div>
-        <h1 className="titulo">Bruno Lopez</h1>
+        <h1 className="titulo">Bruno Emanuel Lopez Cardena</h1>
       </div>
       <div className="enlaces">
         <Link to={"/"}>Home</Link>
